@@ -9,3 +9,5 @@ Sources:
 - National Authority for Management and Regulation in Communications of Romania - Radio amateur services regulations
 - ITU Radio Regulations, 2020 Edition
 - IARU-R1 VHF Handbook
+
+![Alt text](images/Ham_Bands_chart_1.JPG)
