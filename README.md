@@ -10,4 +10,4 @@ Sources:
 - ITU Radio Regulations, 2020 Edition
 - IARU-R1 VHF Handbook
 
-![Alt text](Ham_Bands_chart.JPG)
+![Alt text](Ham_Bands_chart.jpg)
