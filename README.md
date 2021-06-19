@@ -11,4 +11,4 @@ Sources:
 - [ITU Radio Regulations, 2020 Edition](https://www.itu.int/pub/R-REG-RR)
 - [IARU-R1 VHF Handbook](https://www.iaru-r1.org/reference/handbooks/)
 
-![Alt text](VHF_UHF_BandPlans.png)
+![Alt text](VHF_UHF_BandPlans_v1.2.png)
